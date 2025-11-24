@@ -1,5 +1,6 @@
 # Computational-Method-For-Fluid-Dynamics
 source http://cfd-peric.de/
+![运行测试案例流程](2dgt-keps完整运行日志.md)
 # CAFFA CFD代码架构分析
 
 ## 项目概述
